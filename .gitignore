@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+DS_Store
+
+# Secrets / local config
+.env
+.env.*
+
+# Python caches
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# Jupyter runtime artifacts
+*.nbconvert.ipynb
