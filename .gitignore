@@ -21,3 +21,6 @@ env/
 
 # Jupyter runtime artifacts
 *.nbconvert.ipynb
+
+# Documents
+*.pdf
